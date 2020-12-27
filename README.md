@@ -1,3 +1,4 @@
 # Fausbot
 
-Nothing to see here yet :(
+Este é um bot do apresentador mais belo do Brasil, feito por dois infelizes com tempo livre
+
